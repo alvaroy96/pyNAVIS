@@ -106,4 +106,4 @@ venv.bak/
 /docs/source/_build/*
 .vscode/*
 
-.idea/*
+src/pyNAVIS/.idea/*
