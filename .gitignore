@@ -105,3 +105,5 @@ venv.bak/
 *.wav
 /docs/source/_build/*
 .vscode/*
+
+.idea/*
